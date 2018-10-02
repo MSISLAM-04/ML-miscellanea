@@ -4,3 +4,4 @@ Here I will upload some interesting readings and results about Machine Learning,
 
 1. Bias vs variance
 2. Unbiased estimators and linear regression
+3. Geometry of regularization
